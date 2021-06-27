@@ -6,7 +6,10 @@
   <a href="https://github.com/alessandrizes">
     <img alt="Feito por Alessandra do Carmo" src="https://img.shields.io/badge/FEITO%20POR-ALESSANDRA%20DO%20CARMO-yellow">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/badge/LICENSE-MIT-yellow"/>
+  <img alt="Issues do Projeto" src="https://img.shields.io/github/issues/alessandrizes/my-first-portfolio"/>
+  <img alt="Forks do Projeto" src="https://img.shields.io/github/forks/alessandrizes/my-first-portfolio"/>
+  <img alt="Stars do Projeto" src="https://img.shields.io/github/stars/alessandrizes/my-first-portfolio"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/alessandrizes/my-first-portfolio"/>
 </p>
 
 <p align="center">Um guia para mostrar todo o meu talento versão 1.0.0!</p>
