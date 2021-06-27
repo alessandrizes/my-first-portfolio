@@ -176,14 +176,20 @@ html {
 .myfooter{
     height: 20vh;
     background: #212529;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+.myfooter p{
+    color: white;
 }
 .myfooter_social-media {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
 }
 .myfooter_img {
-    width: 50px;
-    margin: 0 15px;
+    width: 50%;
+    margin: 0 10px;
 }
