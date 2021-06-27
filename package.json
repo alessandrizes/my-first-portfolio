@@ -1,0 +1,24 @@
+{
+  "name": "my-first-portfolio",
+  "version": "1.0.0",
+  "description": "Um guia para mostrar todo o meu talento!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alessandrizes/my-first-portfolio.git"
+  },
+  "author": "Alessandra do Carmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessandrizes/my-first-portfolio/issues"
+  },
+  "homepage": "https://github.com/alessandrizes/my-first-portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "jquery-validation": "^1.19.2"
+  }
+}
