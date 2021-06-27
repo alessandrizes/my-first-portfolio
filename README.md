@@ -38,10 +38,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### Rodando a aplicação<a id="rodando-aplicacao"></a>
 ````bash 
  # Clone este repositório
- git clone https://github.com/Seu-perfil/repositorio
+ git clone https://github.com/alessandrizes/my-first-portfolio
  
  # Acesse a pasta do projeto no terminal
- cd pasta
+ cd my-first-portfolio
  
  # Instale as dependências
  $ npm install
@@ -64,7 +64,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### Autora<a id="autora"> </a>
 ---
 <a href="https://github.com/alessandrizes" style="text-decoration: none;">
-  <img style="border-radius: 50%;" src="./assets/img/logo-github.png"/>
   <p>Feito com 💛 por Alessandra do Carmo</p>
   <p>👋🏾 Entre em contato!</p>
 </a> 
